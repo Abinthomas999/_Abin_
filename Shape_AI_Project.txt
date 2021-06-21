@@ -1,0 +1,8 @@
+
+Current Wather Status in Kochi
+...............................
+City Name          :Kochi
+Humidity           :85
+Wind Speed         :3.58
+Description        :overcast clouds
+Temperature        :25.99 Celsius
